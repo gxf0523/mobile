@@ -1,0 +1,43 @@
+dl,dt,dd{
+    margin:0;
+}
+p{
+    margin:0;
+}
+.wrapper {
+	width: 100%;
+	height: 100%;
+    background-color: #fff;
+}
+center{
+    width: 100%;
+}
+.title{
+    font-family: MicrosoftYaHeiUI-Bold;
+    font-size: .44rem;
+    color: #2D3B3E;
+    line-height: .56rem;
+    margin: .4rem 0 .6rem .3rem;
+    text-align: left;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+    margin: 0 .46rem 1.66rem .36rem;
+}
+.list>a{
+    font-family: MicrosoftYaHeiUI;
+    font-size: .32rem;
+    color: #6E7577;
+    line-height: .5rem;
+    display: flex;
+    text-align: left;
+    margin-bottom: .1rem;
+    text-decoration: none;
+}
+.list>a>img{
+    width: .12rem;
+    height: .16rem;
+    margin-right: .2rem;
+    margin-top: .2rem;
+}

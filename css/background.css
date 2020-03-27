@@ -1,0 +1,39 @@
+p{margin:0;}
+#xmhader{
+    font-family: MicrosoftYaHeiUI-Bold;
+    font-size: .44rem;
+    color: #2D3B3E;
+    line-height: .56rem;
+    margin: .4rem 0 .4rem .3rem;
+    text-align: left;
+    font-weight: bold;
+}
+.centerText{
+    margin: 0 .26rem 0 .26rem;
+    position: relative;
+}
+.centerText>p{
+    font-family: MicrosoftYaHeiUI;
+    font-size: .28rem;
+    color: #6E7577;
+    text-align: justify;
+    line-height: .52rem;
+    
+}
+.end{
+    font-family: MicrosoftYaHeiUI-Bold;
+    font-size: .28rem;
+    color: #50d77e;
+    text-align: left;
+    line-height: .28rem;
+    margin-top: .2rem;
+    margin-bottom: .2rem;
+}
+.imgText{
+    width: 4.6rem;
+    height: 4.8rem;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}

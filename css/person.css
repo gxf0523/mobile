@@ -1,0 +1,103 @@
+dl,dt,dd{
+    margin:0;
+}
+p{
+    margin:0;
+}
+.wrapper {
+	width: 100%;
+	height: 100%;
+    background-color: #fff;
+}
+center{
+    width: 100%;
+}
+.avatorBox{
+    display: flex;
+}
+.avatorBox>dl{
+    display: flex;
+    margin: .4rem .3rem 0 .28rem;
+    padding-bottom: .38rem;
+    border-bottom: 1px solid #E4EAEC;
+    width: 100%；
+}
+.avatorBox>dl>dt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.avatorImg{
+    width: 1.18rem;
+    height: 1.17rem;
+}
+.avatorBox>dl>dd{
+    margin-left: .25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.avatorTitle{
+    color: #1d2628;
+    font-size:  .33rem;
+    letter-spacing: .1rem;
+    display: flex;
+}
+.avatorCon{
+    margin-top: .12rem;
+    color: #8fa3aa;
+    font-size: .23rem;
+    display: flex;
+}
+.centerContent{
+    margin:.38rem .5rem 0 .5rem;
+    display: flex;
+    font-family: MicrosoftYaHeiUI;
+    font-size: .28rem;
+    color: #6E7577;
+    line-height: .52rem;
+    text-align: left;
+}
+.centerTitle{
+    margin: .7rem 0 0 .3rem;
+    text-align: left;
+    font-family: MicrosoftYaHeiUI-Bold;
+    font-size: .44rem;
+    color: #2D3B3E;
+    line-height: .56rem;
+}
+.centerBox{
+    display: flex;
+    margin: .44rem .3rem .2rem .3rem;
+    justify-content: space-between;
+}
+.centerBoxA{
+    display: flex;
+    margin: .4rem .3rem 1.02rem .3rem;
+    justify-content: space-between;
+}
+.centerItem{
+    width: 2.24rem;
+}
+.centeritemTop{
+    width: 100%;
+    height: 1.68rem;
+    background: #EFEFEF;
+}
+.centeritemBot{
+    margin-top: .26rem;
+    display: flex;
+    flex-direction: column;
+}
+.centeritemBotitle{
+    font-family: MicrosoftYaHeiUI;
+    font-size: .28rem;
+    color: #2D3B3E;
+}
+.centeritemBotcen{
+    font-family: MicrosoftYaHeiUI;
+    font-size: .24rem;
+    color: #8FA3AA;
+    line-height: .32rem;
+    text-align: left;
+}

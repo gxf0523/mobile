@@ -1,0 +1,101 @@
+dl,dt,dd{
+    margin:0;
+}
+p{
+    margin:0;
+}
+.wrapper {
+	width: 100%;
+	height: 100%;
+    background-color: #fff;
+}
+center{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.centerTitle{
+    margin: .4rem 0 .4rem .3rem;
+    font-family: MicrosoftYaHeiUI-Bold;
+    font-size: .44rem;
+    color: #2D3B3E;
+    line-height: .56rem;
+    display: flex;
+}
+.contentOne,.contentTwo{
+    font-family: MicrosoftYaHeiUI;
+    font-size: .32rem;
+    color: #535B5D;
+    line-height: .32rem;
+    margin: 0 0 0 .3rem;
+    display: flex;
+}
+.contentTwo{
+    margin-top: .2rem;
+}
+.contentBox{
+    display: flex;
+    justify-content: flex-start;
+}
+.contentChildren{
+    margin: .82rem 0 .66rem .3rem;
+    width: 4.74rem;
+    height:2.9rem;
+    background: #EFEFEF;
+}
+.centerThree{
+    font-family: MicrosoftYaHeiUI;
+    font-size: .28rem;
+    color: #6E7577;
+    line-height: .52rem;
+    margin: 0 .3rem .36rem .3rem;
+    display: flex;
+    text-align: left;
+}
+.jianjie{
+    font-family: MicrosoftYaHeiUI-Bold;
+    font-size: .32rem;
+    color: #6E7577;
+    display: flex;
+    margin: 0 0 .18rem .3rem;
+}
+.centerFour{
+    font-family: MicrosoftYaHeiUI;
+    font-size: .28rem;
+    color: #6E7577;
+    line-height: .52rem;
+    margin: 0 .3rem 0 .3rem;
+    padding-bottom: .58rem;
+    border-bottom: 1px solid #E4EAEC;
+    text-align: left;
+}
+.xieyiTitle{
+    margin: .56rem .3rem 0 .3rem;
+    font-size: .28rem;
+    color: #6e7577;
+    font-weight: bold;
+    text-align: left;
+}
+.centerFive{
+    font-family: MicrosoftYaHeiUI-Bold;
+    font-size: .3rem;
+    color: #6E7577;
+    line-height: .46rem;
+    margin: 0 .3rem 0 .3rem;
+    text-align: left;
+}
+.centerFive>span{
+    font-size: .28rem!important;
+    font-weight: bold;
+}
+.centerSix,.centerSeven{
+    margin: .86rem .3rem 0 .3rem;
+    font-family: MicrosoftYaHeiUI;
+    font-size: .28rem;
+    color: #000000;
+    line-height: .46rem;
+    text-align: left;
+}
+.centerSeven{
+    margin-bottom: .78rem;
+}

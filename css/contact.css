@@ -1,0 +1,62 @@
+dl,dt,dd{
+    margin:0;
+}
+p{
+    margin:0;
+}
+.wrapper {
+	width: 100%;
+	height: 100%;
+    background-color: #fff;
+}
+header{
+    width: 100%;
+    height: 4.44rem;
+    background: url('../images/bg_project.png');
+    background-size: 100% 100%;
+}
+center{
+    width: 100%;
+}
+p{margin:0;}
+#xmhader{
+    font-family: MicrosoftYaHeiUI-Bold;
+    font-size: .44rem;
+    color: #2D3B3E;
+    line-height: .56rem;
+    margin: .4rem 0 .4rem .3rem;
+    text-align: left;
+    font-weight: bold;
+}
+.centerOne,.centerTwo{
+    font-family: MicrosoftYaHeiUI;
+    font-size: .32rem;
+    color: #6E7577;
+    line-height: .52rem;
+    text-align: left;
+}
+.centerOne{
+    margin: 0 0 .2rem .3rem;
+}
+.centerOne>span,.centerTwo>span{
+    font-size: .34rem;
+    color: #6E7577;
+    font-weight: bold;
+    letter-spacing: 0;
+}
+.centerTwo{
+    margin: 0 0 .56rem .3rem;
+    letter-spacing: .08rem;
+}
+.centerThree,.centerFour{
+    font-family: MicrosoftYaHeiUI;
+    font-size: .24rem;
+    color: #8FA3AA;
+    line-height: .4rem;
+    margin-left: .3rem;
+    margin-right: .3rem;
+    text-align: left;
+}
+.centerFour{
+    margin-bottom: .68rem;
+}
